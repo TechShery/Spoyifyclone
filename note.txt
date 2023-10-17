@@ -1,0 +1,6 @@
+font family add ki hy
+nav bar styling
+nav ul styling
+.brand img
+.brand 
+nav ul li padding
